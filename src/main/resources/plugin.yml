@@ -1,0 +1,4 @@
+name: Minecraft_MEG
+version: '1.0-SNAPSHOT'
+main: me.minecraftmeg.minecraft_MEG.Minecraft_MEG
+api-version: '1.21'
